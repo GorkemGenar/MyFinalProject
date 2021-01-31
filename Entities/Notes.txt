@@ -1,0 +1,2 @@
+﻿- Bu Entity katmanı bir ara katman.  
+- Veri tabanından çekilecek olan verileri tutan değişkenlerin bulunduğu classlar (abstract ve concrete olarak) bu katmanda.
